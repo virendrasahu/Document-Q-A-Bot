@@ -246,7 +246,7 @@ tqdm>=4.66.0
 
 ## 🌐 Live Demo
 
-> 🌍 [Deployed App] — [Add your Streamlit Cloud / deployment URL here](https://document-q-a-bot.streamlit.app/)
+> 🌍 [Deployed App] — [https://document-q-a-bot.streamlit.app/](https://document-q-a-bot.streamlit.app/)
 
 ---
 
