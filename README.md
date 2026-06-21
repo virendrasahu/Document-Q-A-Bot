@@ -250,6 +250,6 @@ tqdm>=4.66.0
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author - Virendra Sahu
 
 Made with ❤️ as part of the **BookExpert AI Engineering Internship Assignment**
